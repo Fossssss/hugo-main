@@ -2,7 +2,9 @@
 title: 'ToDoList'
 layout: 'simple'
 ---
-
+{{< typeit >}}
+Lorem ipsum dolor sit amet 
+{{< /typeit >}}
 ## Doing
 
 - [ ] **线性代数**
