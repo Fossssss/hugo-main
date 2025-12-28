@@ -1,4 +1,7 @@
 <!-- 我是注释 -->
-*{{< typeit >}}
+{{< typeit 
+  tag=i
+  lifeLike=true
+>}}
 Hello World!
-{{< /typeit >}}*
+{{< /typeit >}}
