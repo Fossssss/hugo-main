@@ -1,5 +1,4 @@
 <!-- 我是注释 -->
-
-{{< typeit >}}
-*Hello World!*
-{{< /typeit >}}
+*{{< typeit >}}
+Hello World!
+{{< /typeit >}}*
